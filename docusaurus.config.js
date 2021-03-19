@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'docs.advanced.way', // Usually your repo name.
   plugins: ['@docusaurus/theme-live-codeblock'],
   themeConfig: {
-    hideableSidebar: false,
+    hideableSidebar: true,
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
@@ -166,16 +166,8 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} 进阶之路, Inc. Built with Docusaurus.`,
-    },
-    liveCodeBlock: {
-      /**
-       * The position of the live playground, above or under the editor
-       * Possible values: "top" | "bottom"
-       */
-      playgroundPosition: 'bottom',
     },
   },
   presets: [
@@ -189,7 +181,6 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           postsPerPage: 3,
           blogSidebarCount: 'ALL',
           // blogSidebarTitle: 'All our posts',
