@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Goldwood1024', // Usually your GitHub org/user name.
   projectName: 'docs.advanced.way', // Usually your repo name.
+  plugins: ['@docusaurus/theme-live-codeblock'],
   themeConfig: {
     hideableSidebar: false,
     colorMode: {
@@ -168,6 +169,13 @@ module.exports = {
       links: [
       ],
       copyright: `Copyright © ${new Date().getFullYear()} 进阶之路, Inc. Built with Docusaurus.`,
+    },
+    liveCodeBlock: {
+      /**
+       * The position of the live playground, above or under the editor
+       * Possible values: "top" | "bottom"
+       */
+      playgroundPosition: 'bottom',
     },
   },
   presets: [
