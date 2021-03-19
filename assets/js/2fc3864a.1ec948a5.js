@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{109:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vuepress \u5347\u7ea7\u5230 Docusaurus","permalink":"/docs.advanced.way/blog/vuepess-upgrade-docusaurus"}]}')}}]);
