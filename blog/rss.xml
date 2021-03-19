@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>进阶之路 Blog</title>
+        <link>https://Goldwood1024.github.io/blog</link>
+        <description>进阶之路 Blog</description>
+        <lastBuildDate>Sun, 07 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vuepress 升级到 Docusaurus]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/vuepess-upgrade-docusaurus</link>
+            <guid>vuepess-upgrade-docusaurus</guid>
+            <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[安装 Docusaurus]]></description>
+        </item>
+    </channel>
+</rss>
