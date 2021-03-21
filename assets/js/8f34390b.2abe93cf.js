@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{412:function(o){o.exports=JSON.parse('{"permalink":"/docs.advanced.way/blog","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

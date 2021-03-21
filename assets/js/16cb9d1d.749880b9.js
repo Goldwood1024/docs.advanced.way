@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{312:function(s){s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"vuepress","name":"vuepress","count":1,"permalink":"/docs.advanced.way/blog/tags/vuepress"}')}}]);
