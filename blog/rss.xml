@@ -4,9 +4,16 @@
         <title>进阶之路 Blog</title>
         <link>https://Goldwood1024.github.io/blog</link>
         <description>进阶之路 Blog</description>
-        <lastBuildDate>Sun, 07 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[macOS 恢复]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/recover-macoos</link>
+            <guid>recover-macoos</guid>
+            <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[恢复macOS系统]]></description>
+        </item>
         <item>
             <title><![CDATA[Vuepress 升级到 Docusaurus]]></title>
             <link>https://Goldwood1024.github.io/docs.advanced.way/blog/vuepess-upgrade-docusaurus</link>
