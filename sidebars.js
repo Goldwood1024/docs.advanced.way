@@ -204,6 +204,7 @@ module.exports = {
   },
   distributed: {
     组件: [
+      'middleware/distributed/readme',
       'middleware/distributed/module/consul'
     ],
     SpringCloud: [
@@ -237,6 +238,7 @@ module.exports = {
   },
   cache: {
     缓存: [
+      'cache/README',
       'cache/cache/cache-strategies',
     ],
     Redis: [
@@ -255,6 +257,7 @@ module.exports = {
   },
   linux: {
     Linux: [
+      'linux/README',
       'linux/command/常用命令',
       'linux/command/lvm',
       'linux/command/soft',

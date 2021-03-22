@@ -66,10 +66,10 @@ module.exports = {
               label: '事务',
               to: 'docs/tranctional/'
             },
-            {
-              label: '服务网格',
-              to: 'docs/servicemesh/'
-            },
+            // {
+            //   label: '服务网格',
+            //   to: 'docs/servicemesh/'
+            // },
             {
               label: '消息队列',
               to: 'docs/mq/'
@@ -88,10 +88,10 @@ module.exports = {
               label: 'K8s',
               to: 'docs/k8s/'
             },
-            {
-              label: 'Serverless',
-              to: 'docs/serverless/'
-            },
+            // {
+            //   label: 'Serverless',
+            //   to: 'docs/serverless/'
+            // },
           ]
         },
         {
@@ -138,7 +138,7 @@ module.exports = {
             },
             {
               label: '备忘',
-              to: 'docs/memo/tool/系统初始化/'
+              to: 'docs/memo/tool/sublime/'
             },
           ]
         },
