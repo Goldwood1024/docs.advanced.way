@@ -112,7 +112,6 @@ module.exports = {
   },
   memo: {
     软件安装: [
-      'memo/tool/系统初始化',
       'memo/tool/sublime',
       'memo/tool/idea',
     ],
