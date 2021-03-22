@@ -50,7 +50,7 @@ module.exports = {
             },
             {
               label: '权限管理',
-              to: 'docs/framework/auth/'
+              to: 'docs/framework/auth/auth'
             }
           ]
         },

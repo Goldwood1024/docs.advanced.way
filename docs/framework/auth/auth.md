@@ -1,5 +1,6 @@
 ---
 title: '简介'
+slug: '/framework/auth/auth/'
 ---
 
 ## 简介

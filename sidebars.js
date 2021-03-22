@@ -93,8 +93,7 @@ module.exports = {
   },
   auth: {
     'Auth2.0': [
-      'framework/auth/readme',
-      'framework/auth/oauth2'
+      'framework/auth/auth'
     ],
     'Shiro': []
   },
