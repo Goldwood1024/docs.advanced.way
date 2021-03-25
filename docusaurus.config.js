@@ -176,7 +176,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Goldwood1024/docs.advanced.way/docs/',
+          editUrl: 'https://github.com/Goldwood1024/docs.advanced.way/tree/master/',
           showLastUpdateTime: true,
         },
         blog: {
@@ -184,7 +184,7 @@ module.exports = {
           postsPerPage: 3,
           blogSidebarCount: 'ALL',
           // blogSidebarTitle: 'All our posts',
-          editUrl: 'https://github.com/Goldwood1024/docs.advanced.way/blog/',
+          editUrl: 'https://github.com/Goldwood1024/docs.advanced.way/tree/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
