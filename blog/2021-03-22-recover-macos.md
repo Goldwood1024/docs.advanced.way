@@ -83,7 +83,7 @@ git -C "$(brew --repo homebrew/cask)" remote set-url origin https://github.com/H
 ### 软件推荐
 
 ```shell
-brew install git node wget hotp redis mysql 
+brew install git node wget htop redis mysql 
 
 brew install --cask sogouinput google-chrome jetbrains-toolbox \
 visual-studio-code teambition paper the-unarchiver \
