@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1107],{82065:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"mysql","name":"mysql","count":3,"permalink":"/docs.advanced.way/blog/tags/mysql"}')}}]);

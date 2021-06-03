@@ -2,11 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Goldwood1024.github.io/blog</id>
     <title>进阶之路 Blog</title>
-    <updated>2021-03-22T00:00:00.000Z</updated>
+    <updated>2021-06-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Goldwood1024.github.io/blog"/>
     <subtitle>进阶之路 Blog</subtitle>
     <icon>https://Goldwood1024.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[分布式共识算法]]></title>
+        <id>Distributed-consensus-algorithm</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/Distributed-consensus-algorithm"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一致性]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓存模型]]></title>
+        <id>cache-pattern</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/cache-pattern"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[缓存模型]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mysql 日志文件]]></title>
+        <id>mysql-log</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/mysql-log"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文件分类]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈希洪水攻击]]></title>
+        <id>Hash-Flooding</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/Hash-Flooding"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[哈希洪水攻击]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hash算法]]></title>
+        <id>hash</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/hash"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SipHash]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[redis 事件模型]]></title>
+        <id>redis.ae</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/redis.ae"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事务]]></title>
+        <id>transaction</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/transaction"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[唯一Id生成规则]]></title>
+        <id>id</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/id"/>
+        <updated>2021-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ObjectId]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mysql 进程常见的 State]]></title>
+        <id>mysql</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/mysql"/>
+        <updated>2021-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[MySQL 进程常见的 State]]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mysql 常用片段]]></title>
+        <id>mysql</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/mysql"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SQL]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS 恢复]]></title>
         <id>recover-macoos</id>

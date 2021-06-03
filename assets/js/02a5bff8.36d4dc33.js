@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1723],{43867:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"paxos","name":"paxos","count":1,"permalink":"/docs.advanced.way/blog/tags/paxos"}')}}]);

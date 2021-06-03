@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7787],{19254:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"consensus","name":"consensus","count":1,"permalink":"/docs.advanced.way/blog/tags/consensus"}')}}]);

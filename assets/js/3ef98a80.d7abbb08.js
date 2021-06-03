@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[313],{5150:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"\u5206\u5e03\u5f0f\u5171\u8bc6\u7b97\u6cd5","name":"\u5206\u5e03\u5f0f\u5171\u8bc6\u7b97\u6cd5","count":1,"permalink":"/docs.advanced.way/blog/tags/\u5206\u5e03\u5f0f\u5171\u8bc6\u7b97\u6cd5"}')}}]);

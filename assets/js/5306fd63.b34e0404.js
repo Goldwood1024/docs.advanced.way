@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[524],{18721:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"\u4e8b\u4ef6","name":"\u4e8b\u4ef6","count":1,"permalink":"/docs.advanced.way/blog/tags/\u4e8b\u4ef6"}')}}]);

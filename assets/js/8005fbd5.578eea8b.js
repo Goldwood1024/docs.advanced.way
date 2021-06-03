@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5874],{52015:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"cap","name":"cap","count":1,"permalink":"/docs.advanced.way/blog/tags/cap"}')}}]);

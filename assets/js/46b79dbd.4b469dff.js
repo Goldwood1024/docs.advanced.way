@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[2949],{40095:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"spring\u4e8b\u52a1","name":"spring\u4e8b\u52a1","count":1,"permalink":"/docs.advanced.way/blog/tags/spring\u4e8b\u52a1"}')}}]);

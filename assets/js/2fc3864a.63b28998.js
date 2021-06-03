@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{341:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"macOS \u6062\u590d","permalink":"/docs.advanced.way/blog/recover-macoos"},{"title":"Vuepress \u5347\u7ea7\u5230 Docusaurus","permalink":"/docs.advanced.way/blog/vuepess-upgrade-docusaurus"}]}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9034],{64620:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"binlog","name":"binlog","count":1,"permalink":"/docs.advanced.way/blog/tags/binlog"}')}}]);

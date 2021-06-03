@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7299],{1569:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"sip-hash","name":"siphash","count":1,"permalink":"/docs.advanced.way/blog/tags/sip-hash"}')}}]);

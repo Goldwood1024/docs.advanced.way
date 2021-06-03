@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{360:function(a){a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"\u6062\u590d","name":"\u6062\u590d","count":1,"permalink":"/docs.advanced.way/blog/tags/\u6062\u590d"}')}}]);
