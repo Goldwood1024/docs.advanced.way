@@ -20,6 +20,9 @@ yarn start
 配置文件: `.github/workflows/gh-deploy.yml`
 
 ```shell
+git checkout website
+git merge master
+git push
 ```
 
 ### 资源
