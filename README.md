@@ -19,6 +19,9 @@ yarn start
 
 配置文件: `.github/workflows/gh-deploy.yml`
 
+```shell
+```
+
 ### 资源
 
 * https://www.docusaurus.cn

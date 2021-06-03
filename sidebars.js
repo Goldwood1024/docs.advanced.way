@@ -42,249 +42,230 @@ module.exports = {
   },
   spring: {
     Spring: [
-      'framework/spring/README',
-      'framework/spring/spring/IOC',
-      'framework/spring/spring/AOP',
-      'framework/spring/spring/core',
-      'framework/spring/spring/事务管理',
-      'framework/spring/spring/BeanFactory',
-      'framework/spring/spring/BeanDefinition',
-      'framework/spring/spring/spring启动流程',
-      'framework/spring/spring/问题',
-      'framework/spring/spring/importbean',
-      'framework/spring/spring/getbean'
-    ]
-    ,
+      'zoology/spring-family/README',
+      'zoology/spring-family/spring/IOC',
+      'zoology/spring-family/spring/AOP',
+      'zoology/spring-family/spring/core',
+      'zoology/spring-family/spring/事务管理',
+      'zoology/spring-family/spring/BeanFactory',
+      'zoology/spring-family/spring/BeanDefinition',
+      'zoology/spring-family/spring/spring启动流程',
+      'zoology/spring-family/spring/问题',
+      'zoology/spring-family/spring/importbean',
+      'zoology/spring-family/spring/getbean'
+    ],
     SpringMVC: [
-      'framework/spring/springmvc/简介',
-      'framework/spring/springmvc/核心组件',
-      'framework/spring/springmvc/Servlet',
-      'framework/spring/springmvc/Session',
-      'framework/spring/springmvc/DispatcherServlet',
-      'framework/spring/springmvc/RequestMapping',
+      'zoology/spring-family/springmvc/简介',
+      'zoology/spring-family/springmvc/核心组件',
+      'zoology/spring-family/springmvc/Servlet',
+      'zoology/spring-family/springmvc/Session',
+      'zoology/spring-family/springmvc/DispatcherServlet',
+      'zoology/spring-family/springmvc/RequestMapping',
     ],
     SpringJMS: [],
     SpringBoot: [
-      'framework/spring/springboot/简介',
-      'framework/spring/springboot/起步依赖',
-      'framework/spring/springboot/自动配置',
-      'framework/spring/springboot/系统指标监控',
-      'framework/spring/springboot/spi',
-      'framework/spring/springboot/springboot启动',
-      'framework/spring/springboot/常用注解',
-      'framework/spring/springboot/基本特性',
-    ]
+      'zoology/spring-family/springboot/简介',
+      'zoology/spring-family/springboot/起步依赖',
+      'zoology/spring-family/springboot/自动配置',
+      'zoology/spring-family/springboot/系统指标监控',
+      'zoology/spring-family/springboot/spi',
+      'zoology/spring-family/springboot/springboot启动',
+      'zoology/spring-family/springboot/常用注解',
+      'zoology/spring-family/springboot/基本特性',
+    ],
+    SpringCloud: [
+      'zoology/spring-family/springcloud/feign'
+    ],
   },
-  Mybatis: {
+  framework: {
     Mybatis: [
-      'framework/mybatis/README',
-      'framework/mybatis/mybatis/配置',
-      'framework/mybatis/mybatis/核心组件',
-      'framework/mybatis/mybatis/映射器',
-      'framework/mybatis/mybatis/动态 SQL',
-      'framework/mybatis/mybatis/Cache',
-      'framework/mybatis/mybatis/插件',
-      'framework/mybatis/mybatis/扩展',
-      'framework/mybatis/mybatis/代码生成器',
+      'zoology/framework/mybatis/README',
+      'zoology/framework/mybatis/mybatis/配置',
+      'zoology/framework/mybatis/mybatis/核心组件',
+      'zoology/framework/mybatis/mybatis/映射器',
+      'zoology/framework/mybatis/mybatis/动态 SQL',
+      'zoology/framework/mybatis/mybatis/Cache',
+      'zoology/framework/mybatis/mybatis/插件',
+      'zoology/framework/mybatis/mybatis/扩展',
+      'zoology/framework/mybatis/mybatis/代码生成器',
     ],
     MybatisPlus: [
-      'framework/mybatis/mybatisplus/README',
-    ]
-  },
-  auth: {
+      'zoology/framework/mybatis/mybatisplus/README',
+    ],
     'Auth2.0': [
-      'framework/auth/auth'
+      'zoology/framework/auth/auth'
     ],
     'Shiro': []
   },
   chinese: {
     语文: [
-      'cyclopedia/chinese/lan/idiom',
-      'cyclopedia/chinese/noun/economics'
+      'practice/memo/chinese/lan/idiom',
+      'practice/memo/chinese/noun/economics'
     ]
   },
-  classnotes: {
-    法律常识: [],
-    云课堂: [
-      'cyclopedia/classnotes/notes/dingding'
-    ]
-  },
-  memo: {
+  practice: {
     软件安装: [
-      'memo/tool/sublime',
-      'memo/tool/idea',
+      'practice/memo/tool/sublime',
+      'practice/memo/tool/idea',
     ],
     使用教程: [
-      'memo/course/maven',
-      'memo/course/git',
-      'memo/course/docker',
-    ]
-  },
-  job: {
-    'Java后端开发': [
-      'job/java',
-      'job/jvm',
-      'job/mybatis',
-      'job/mysql',
-      'job/redis',
-      'job/rabbitmq',
-      'job/spring',
-      'job/linux',
-      'job/网络协议',
-      'job/分布式',
-      'job/算法',
-      'job/服务器',
-      'job/面经',
+      'practice/memo/course/maven',
+      'practice/memo/course/git',
+      'practice/memo/course/docker',
+    ],
+    法律常识: [],
+    云课堂: [
+      'practice/memo/classnotes/notes/dingding'
+    ],
+    大中国: [
+      'practice/memo/chinese/lan/idiom',
+      'practice/memo/chinese/noun/economics'
+    ],
+    '面试题': [
+      'practice/memo/job/java',
+      'practice/memo/job/jvm',
+      'practice/memo/job/mybatis',
+      'practice/memo/job/mysql',
+      'practice/memo/job/redis',
+      'practice/memo/job/rabbitmq',
+      'practice/memo/job/spring',
+      'practice/memo/job/linux',
+      'practice/memo/job/网络协议',
+      'practice/memo/job/分布式',
+      'practice/memo/job/算法',
+      'practice/memo/job/服务器',
+      'practice/memo/job/面经',
     ]
   },
   patterns: {
     设计模式: [
-      'patterns/README',
-      'patterns/other/设计模式原则',
+      'practice/patterns/README',
+      'practice/patterns/other/设计模式原则',
     ],
     创建型模式: [
-      'patterns/build/单利模式',
-      'patterns/build/工厂模式',
-      'patterns/build/建造者模式',
-      'patterns/build/原型模式',
+      'practice/patterns/build/单利模式',
+      'practice/patterns/build/工厂模式',
+      'practice/patterns/build/建造者模式',
+      'practice/patterns/build/原型模式',
     ],
     结构型模式: [
-      'patterns/structured/亨元模式',
-      'patterns/structured/代理模式',
-      'patterns/structured/外观模式',
-      'patterns/structured/桥接模式',
-      'patterns/structured/组合模式',
-      'patterns/structured/装饰模式',
-      'patterns/structured/适配器模式',
+      'practice/patterns/structured/亨元模式',
+      'practice/patterns/structured/代理模式',
+      'practice/patterns/structured/外观模式',
+      'practice/patterns/structured/桥接模式',
+      'practice/patterns/structured/组合模式',
+      'practice/patterns/structured/装饰模式',
+      'practice/patterns/structured/适配器模式',
     ],
     行为型模式: [
-      'patterns/behavior/中介者模式',
-      'patterns/behavior/命令模式',
-      'patterns/behavior/备忘录模式',
-      'patterns/behavior/模板方法模式',
-      'patterns/behavior/状态模式',
-      'patterns/behavior/策略模式',
-      'patterns/behavior/职责链模式',
-      'patterns/behavior/观察者模式',
-      'patterns/behavior/解释器模式',
-      'patterns/behavior/访问者模式',
-      'patterns/behavior/迭代器模式',
+      'practice/patterns/behavior/中介者模式',
+      'practice/patterns/behavior/命令模式',
+      'practice/patterns/behavior/备忘录模式',
+      'practice/patterns/behavior/模板方法模式',
+      'practice/patterns/behavior/状态模式',
+      'practice/patterns/behavior/策略模式',
+      'practice/patterns/behavior/职责链模式',
+      'practice/patterns/behavior/观察者模式',
+      'practice/patterns/behavior/解释器模式',
+      'practice/patterns/behavior/访问者模式',
+      'practice/patterns/behavior/迭代器模式',
     ],
   },
   algorithm: {
     算法: [
-      'algorithm/algorithm/README',
+      'practice/algorithm/algorithm/README',
     ],
     数据结构: [
-      'algorithm/structure/tree/树',
-      'algorithm/structure/queue/队列',
+      'practice/algorithm/structure/tree/树',
+      'practice/algorithm/structure/queue/队列',
     ],
     leetcode: [
-      'algorithm/leetcode/README',
+      'practice/algorithm/leetcode/README',
     ]
   },
-  cs: {
+  os: {
     网络协议: [
-      'cs/network/tcpip',
-      'cs/network/http',
+      'zoology/os/network/tcpip',
+      'zoology/os/network/http',
     ],
-    操作系统原理: []
+    操作系统原理: [],
+    Linux: [
+      'zoology/os/linux/README',
+      'zoology/os/linux/command/常用命令',
+      'zoology/os/linux/command/lvm',
+      'zoology/os/linux/command/soft',
+    ],
+    Shell编程: [
+      'zoology/os/linux/shell/Shell',
+    ],
+    内核: [
+      'zoology/os/linux/kernel/README',
+    ]
   },
-  mq: {
+  distributed: {
+    组件: [
+      'zoology/middleware/distributed/readme',
+      'zoology/middleware/distributed/consul'
+    ],
+    Dubbo: [],
+    事务: [
+      'zoology/middleware/tranctional/简介',
+      'zoology/middleware/tranctional/spring事务',
+      'zoology/middleware/tranctional/mysql事务',
+      'zoology/middleware/tranctional/redis事务',
+    ],
+    分布式事务: [
+      'zoology/middleware/tranctional/seata/介绍'
+    ],
     JMS: [
-      'middleware/mq/jms/jms',
-      'middleware/mq/jms/事件驱动模型'
+      'zoology/middleware/mq/jms/jms',
+      'zoology/middleware/mq/jms/事件驱动模型'
     ],
     ActiveMQ: [
-      'middleware/mq/active/架构'
+      'zoology/middleware/mq/active/架构'
     ],
     Redis的队列: [],
     Kafka: [],
     RabbitMQ: [],
   },
-  distributed: {
-    组件: [
-      'middleware/distributed/readme',
-      'middleware/distributed/module/consul'
-    ],
-    SpringCloud: [
-      'middleware/distributed/springcloud/feign'
-    ],
-    Dubbo: [],
-  },
-  tranctional: {
-    事务: [
-      'middleware/tranctional/简介',
-      'middleware/tranctional/spring事务',
-      'middleware/tranctional/mysql事务',
-      'middleware/tranctional/redis事务',
-    ],
-    分布式事务: [
-      'middleware/tranctional/seata/介绍'
-    ]
-  },
   db: {
     SQL: [
-      'db/sql/README',
+      'zoology/db/sql/README',
     ],
     Mysql: [
-      'db/mysql/mysql',
-      'db/mysql/数据类型',
-      'db/mysql/数据库索引',
-      'db/mysql/InnoDB',
-      'db/mysql/复制',
-      'db/mysql/性能优化',
-    ]
-  },
-  cache: {
+      'zoology/db/mysql/mysql',
+      'zoology/db/mysql/数据类型',
+      'zoology/db/mysql/数据库索引',
+      'zoology/db/mysql/InnoDB',
+      'zoology/db/mysql/复制',
+      'zoology/db/mysql/性能优化',
+    ],
     缓存: [
-      'cache/README',
-      'cache/cache/cache-strategies',
+      'zoology/db/cache/README',
+      'zoology/db/cache/cache/cache-strategies',
     ],
     Redis: [
-      'cache/redis/概述',
-      'cache/redis/数据类型',
-      'cache/redis/数据结构',
-      'cache/redis/持久化',
-      'cache/redis/复制',
-      'cache/redis/集群',
-      'cache/redis/Sentinel',
-      'cache/redis/常见问题',
+      'zoology/db/cache/redis/概述',
+      'zoology/db/cache/redis/数据类型',
+      'zoology/db/cache/redis/数据结构',
+      'zoology/db/cache/redis/持久化',
+      'zoology/db/cache/redis/复制',
+      'zoology/db/cache/redis/集群',
+      'zoology/db/cache/redis/Sentinel',
+      'zoology/db/cache/redis/常见问题',
     ],
-    Redisson: [
-      'cache/redisson/README',
-    ]
-  },
-  linux: {
-    Linux: [
-      'linux/README',
-      'linux/command/常用命令',
-      'linux/command/lvm',
-      'linux/command/soft',
-    ],
-    Shell编程: [
-      'linux/shell/Shell',
-    ],
-    内核: [
-      'linux/kernel/README',
-    ]
   },
   docker: {
     基础篇: [
-      'cloud/docker/base/镜像',
-      'cloud/docker/base/Dockerfile',
-      'cloud/docker/base/Compose',
-      'cloud/docker/base/YAML',
+      'zoology/cloud/docker/base/镜像',
+      'zoology/cloud/docker/base/Dockerfile',
+      'zoology/cloud/docker/base/Compose',
+      'zoology/cloud/docker/base/YAML',
     ],
-    实战篇: []
-  },
-  k8s: {
+    实战篇: [],
     K8S: [
-      'cloud/k8s/README',
-    ]
-  },
-  servicemesh: {
+      'zoology/cloud/k8s/README',
+    ],
     服务网格: []
   },
-  serverless: {},
 };
