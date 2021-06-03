@@ -55,18 +55,18 @@
         <updated>2021-06-02T00:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[唯一Id生成规则]]></title>
-        <id>id</id>
-        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/id"/>
+        <title type="html"><![CDATA[唯一ID生成规则]]></title>
+        <id>unique-id</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/unique-id"/>
         <updated>2021-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ObjectId]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[mysql 进程常见的 State]]></title>
-        <id>mysql</id>
-        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/mysql"/>
+        <id>mysql-state</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/mysql-state"/>
         <updated>2021-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[MySQL 进程常见的 State]]]></summary>
+        <summary type="html"><![CDATA[通过show processlist查看MySQL的进程状态，在State列上面的状态有如下这些：]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[mysql 常用片段]]></title>

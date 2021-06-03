@@ -55,18 +55,18 @@
             <pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[唯一Id生成规则]]></title>
-            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/id</link>
-            <guid>id</guid>
+            <title><![CDATA[唯一ID生成规则]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/unique-id</link>
+            <guid>unique-id</guid>
             <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[ObjectId]]></description>
         </item>
         <item>
             <title><![CDATA[mysql 进程常见的 State]]></title>
-            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/mysql</link>
-            <guid>mysql</guid>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/mysql-state</link>
+            <guid>mysql-state</guid>
             <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[[MySQL 进程常见的 State]]]></description>
+            <description><![CDATA[通过show processlist查看MySQL的进程状态，在State列上面的状态有如下这些：]]></description>
         </item>
         <item>
             <title><![CDATA[mysql 常用片段]]></title>
