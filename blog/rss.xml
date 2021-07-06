@@ -4,9 +4,30 @@
         <title>进阶之路 Blog</title>
         <link>https://Goldwood1024.github.io/blog</link>
         <description>进阶之路 Blog</description>
-        <lastBuildDate>Thu, 03 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[错误信息]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/err</link>
+            <guid>err</guid>
+            <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[SSL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[参数检验]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/validation</link>
+            <guid>validation</guid>
+            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[//(1)空检查]]></description>
+        </item>
+        <item>
+            <title><![CDATA[硬盘检测]]></title>
+            <link>https://Goldwood1024.github.io/docs.advanced.way/blog/smartmontools</link>
+            <guid>smartmontools</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[命令行工具]]></description>
+        </item>
         <item>
             <title><![CDATA[分布式共识算法]]></title>
             <link>https://Goldwood1024.github.io/docs.advanced.way/blog/Distributed-consensus-algorithm</link>

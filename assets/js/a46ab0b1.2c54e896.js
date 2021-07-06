@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3764],{69035:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"smartmontools","name":"smartmontools","count":1,"permalink":"/docs.advanced.way/blog/tags/smartmontools"}')}}]);

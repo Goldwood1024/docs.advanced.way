@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4423],{25001:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/docs.advanced.way/blog/tags","slug":"validation","name":"validation","count":1,"permalink":"/docs.advanced.way/blog/tags/validation"}')}}]);

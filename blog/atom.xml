@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Goldwood1024.github.io/blog</id>
     <title>进阶之路 Blog</title>
-    <updated>2021-06-03T00:00:00.000Z</updated>
+    <updated>2021-06-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Goldwood1024.github.io/blog"/>
     <subtitle>进阶之路 Blog</subtitle>
     <icon>https://Goldwood1024.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[错误信息]]></title>
+        <id>err</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/err"/>
+        <updated>2021-06-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSL]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参数检验]]></title>
+        <id>validation</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/validation"/>
+        <updated>2021-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[//(1)空检查]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬盘检测]]></title>
+        <id>smartmontools</id>
+        <link href="https://Goldwood1024.github.io/docs.advanced.way/blog/smartmontools"/>
+        <updated>2021-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[命令行工具]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分布式共识算法]]></title>
         <id>Distributed-consensus-algorithm</id>
